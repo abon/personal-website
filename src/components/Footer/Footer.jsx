@@ -44,7 +44,7 @@ const Footer = () => {
           </a>
         </p>
 
-        {isEnabled && <GithubButtons />}
+
       </Container>
     </footer>
   );
