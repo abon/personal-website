@@ -28,30 +28,23 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: 'it is info',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'color.png',
+    title: '🎨 Color Palette',
+    info:
+      'A simple web app for creating beautiful color palettes. Easily find HTML color codes for your website using my color picker, color chart and HTML color names with Hex color codes, RGB and RGBA values.',
+    info2: '🛠 Tools: React, Material-UI, Chroma.js ',
+    url: 'https://colorpickr.netlify.app/',
+    repo: 'https://github.com/abon/color-picker', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: 'it is 2nd info',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'blog.png',
+    title: '🧪 Developers Laboratory',
+    info:
+      'My tech blog where I publish different articles and tutorials mainly about JavaScript, Python and web design. The blog aims to support Uzbek-speaking learners with free programming videos and other kinds of materials.',
+    info2: '🛠 Tools: React, Gatsby, Sass, Moment.js',
+    url: 'https://www.devslab.tech/',
+    repo: 'https://github.com/abon/code-lab', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
