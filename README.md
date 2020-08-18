@@ -1,7 +1,5 @@
 # Abdullah Samadov | Software Engineer ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/gatsby-simplefolio?color=blue)](https://github.com/cobidev/gatsby-simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/gatsby-simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/gatsby-simplefolio)
 
-
-
 ## Features
 
 ⚡️ Modern UI Design + Reveal Animations\
@@ -12,7 +10,6 @@
 ⚡️ Image optimization with Gatsby\
 ⚡️ Easy site customization\
 ⚡️ Well organized documentation
-
 
 ---
 
@@ -89,13 +86,11 @@ Once your server has started, go to this url `http://localhost:8000/` and you wi
 
 ---
 
-
 ## Deployment 📦
 
 Once you have done with your setup. You need to put your website online!
 
 I highly recommend to use [Netlify](https://netlify.com) to achieve this on the EASIEST WAY
-
 
 ## Technologies used 🛠️
 
@@ -105,11 +100,10 @@ I highly recommend to use [Netlify](https://netlify.com) to achieve this on the 
 - [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - Front-End UI library
 - [Sass](https://sass-lang.com/documentation) - CSS extension language
 
-
 ## Status
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2365af6f-820a-4fb8-83e6-69a66f686dfe/deploy-status)](https://app.netlify.com/sites/gatsby-simplefolio/deploys)
 
-## License 📄
+## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for detail
