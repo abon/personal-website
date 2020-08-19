@@ -39,7 +39,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'blog.png',
-    title: '🧪 Developers Laboratory',
+    title: '🧪 Developers Lab',
     info:
       'My tech blog where I publish different articles and tutorials mainly about JavaScript, Python and web design. The blog aims to support Uzbek-speaking learners with free programming videos and other kinds of materials.',
     info2: '🛠 Tools: React, Gatsby, Sass, Moment.js',
