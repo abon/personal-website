@@ -48,12 +48,13 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'covid.png',
+    title: '🦠 GoCorona',
+    info:
+      'Track the spread of the Coronavirus COVID-19 epidemic, browse an interactive map, view fatality rate and recoveries, check affected regions in real-time and other related data',
+    info2: '🛠 Tools: React, MaterialUI, Chart.js, Leaflet',
+    url: 'https://gocovid.netlify.app/',
+    repo: 'https://github.com/abon/covid-19-tracker', // if no repo, the button will not show up
   },
 ];
 
