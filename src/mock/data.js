@@ -49,7 +49,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'covid.png',
-    title: '🦠 GoCorona',
+    title: '🦠 GoCOVID',
     info:
       'Track the spread of the Coronavirus COVID-19 epidemic, browse an interactive map, view fatality rate and recoveries, check affected regions in real-time and other related data',
     info2: '🛠 Tools: React, MaterialUI, Chart.js, Leaflet',
