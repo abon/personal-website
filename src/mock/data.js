@@ -52,7 +52,7 @@ export const projectsData = [
     title: '🦠 GoCOVID',
     info:
       'Track the spread of the Coronavirus COVID-19 epidemic, browse an interactive map, view fatality rate and recoveries, check affected regions in real-time and other related data',
-    info2: '🛠 Tools: React, Material-UI,Leaflet',
+    info2: '🛠 Tools: React, Material-UI, Leaflet',
     url: 'https://gocovid.netlify.app/',
     repo: 'https://github.com/abon/covid-19-tracker', // if no repo, the button will not show up
   },
