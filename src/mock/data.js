@@ -48,6 +48,16 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'news.png',
+    title: 'Alan News',
+    info:
+      'Comprehensive up-to-date news coverage, aggregated from sources all over the world by News API powered with Voice Recognition.',
+    info2: '🛠 Tools: React, News API, Alan AI, Material-UI',
+    url: 'https://alan-news.vercel.app/',
+    repo: 'https://github.com/abon/alan__news', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'covid.png',
     title: '🦠 GoCOVID',
     info:
